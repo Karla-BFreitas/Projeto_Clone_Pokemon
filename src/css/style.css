@@ -7,7 +7,7 @@ body {
     justify-content: center;
     flex-direction: column;
     min-height: 100vh;
-    gap: 30px;
+    gap: 10px;
 }
 
 .cabecalho {
@@ -15,8 +15,9 @@ body {
     justify-content: center;
 }
 
-.cabecalho .titulo {
-    color: #fff64f;
+.cabecalho .titulo img{
+    width: 200px;
+    height: 75px;
 }
 
 .cartao {
@@ -26,6 +27,7 @@ body {
     padding: 12px;
     gap: 5px;
     position: absolute;
+    border-radius: 10px;
 }
 
 .cartao.selecionado {
@@ -103,6 +105,33 @@ body {
     display: inline-block;
 }
 
+.cartao .terra {
+    width: 20px;
+    height: 20px;
+    background-image: url(../imagens/terra.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.cartao .psiquico {
+    width: 20px;
+    height: 20px;
+    background-image: url(../imagens/psiquico.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.cartao .escuridao {
+    width: 20px;
+    height: 20px;
+    background-image: url(../imagens/escuridao.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
 .cartao .nivel-carta {
     display: flex;
     justify-content: flex-end;
@@ -113,6 +142,7 @@ body {
 .cartao .imagem-carta {
     max-width: 260px;
     align-self: center;
+    border-radius: 10px;
 }
 
 .cartao .informacoes {
@@ -154,19 +184,19 @@ body {
 }
 
 .fundo-3 {
-    background: url(../imagens/fundo-3.jpg) no-repeat;
+    background: url(../imagens/fundo-3.jpeg) no-repeat;
 }
 
 .fundo-4 {
-    background: url(../imagens/fundo-4.jpg) no-repeat;
+    background: url(../imagens/fundo-4.jpeg) no-repeat;
 }
 
 .fundo-5 {
-    background: url(../imagens/fundo-5.jpg) no-repeat;
+    background: url(../imagens/fundo-5.png) no-repeat;
 }
 
 .fundo-6 {
-    background: url(../imagens/fundo-6.jpg) no-repeat;
+    background: url(../imagens/fundo-6.png) no-repeat;
 }
 
 .fundo-7 {
