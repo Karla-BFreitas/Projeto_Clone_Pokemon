@@ -1,5 +1,5 @@
 body {
-    font-family: 'Yugioh', serif;
+    font-family: "Libre Franklin", serif;
     background-image: url(../imagens/fundo.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -222,7 +222,7 @@ body {
 }
 
 .btn-seta:hover {
-    background-color: #8351fe;
+    background-color: #fff264;
 }
 
 body::-webkit-scrollbar-track{
