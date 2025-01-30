@@ -1,3 +1,7 @@
+<div align=center>
+  <img src='https://github.com/user-attachments/assets/bb615594-a10a-47a9-b91c-d1c5dc795cfe'>
+</div>
+
 # Clone - Cartas Pokémon
 
 ## Página web desenvolvida a partir de um projeto de imersão front-end.
@@ -33,7 +37,7 @@
 <p>O CSS definiu o layout do website, ou seja, como os elementos são organizados e posicionados na tela. Ele garantiu a estilização de imagens, bakcgrounds, textos e ícones, trazendo também a responsividade para dispositivos móveis. Com códigos de estilização, ele permitiu personalizar a aparência das cartas Pokémon, definindo cores, fontes, tamanhos, bordas e outros detalhes visuais. A função do css garantiu que as cartas tenham um visual atraente e que as informações dos Pokémon sejam apresentadas de forma legível e organizada.</p>
 
 <div margin=10px 0px>
-  <img src='https://github.com/user-attachments/assets/d0a72663-213c-42c1-ac86-e6f96e08e2dd'>
+  <img src='https://github.com/user-attachments/assets/cffe8043-2ed6-4e38-a52b-ae1bf6ee0d46'>
 </div>
 
 ### JavaScript
