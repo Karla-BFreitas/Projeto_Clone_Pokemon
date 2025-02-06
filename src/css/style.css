@@ -1,6 +1,6 @@
 body {
     font-family: "Libre Franklin", serif;
-    background-image: url(../imagens/fundo.jpeg);
+    background-image: url(../imagens/fundo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -60,7 +60,7 @@ body {
     border-radius: 4px;
 }
 
-.cartao .grama {
+.cartao .grama, .fogo, .agua, .normal, .eletrico, .terra, .psiquico, .escuridao {
     width: 20px;
     height: 20px;
     background-image: url(../imagens/grama.png);
@@ -70,66 +70,31 @@ body {
 }
 
 .cartao .fogo {
-    width: 20px;
-    height: 20px;
     background-image: url(../imagens/fogo.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    display: inline-block;
 }
 
 .cartao .agua {
-    width: 20px;
-    height: 20px;
     background-image: url(../imagens/agua.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    display: inline-block;
 }
 
 .cartao .normal {
-    width: 20px;
-    height: 20px;
     background-image: url(../imagens/normal.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    display: inline-block;
 }
 
 .cartao .eletrico {
-    width: 20px;
-    height: 20px;
     background-image: url(../imagens/eletrico.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    display: inline-block;
 }
 
 .cartao .terra {
-    width: 20px;
-    height: 20px;
     background-image: url(../imagens/terra.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    display: inline-block;
 }
 
 .cartao .psiquico {
-    width: 20px;
-    height: 20px;
     background-image: url(../imagens/psiquico.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    display: inline-block;
 }
 
 .cartao .escuridao {
-    width: 20px;
-    height: 20px;
     background-image: url(../imagens/escuridao.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    display: inline-block;
 }
 
 .cartao .nivel-carta {
