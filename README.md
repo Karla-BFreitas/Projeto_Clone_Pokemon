@@ -30,21 +30,21 @@
 <p>O HTML definiu o esqueleto do site. Ele também organizou os elementos, como os títulos, parágrafos, imagens e outros conteúdos. Cada carta Pokémon é representada por um conjunto de elementos HTML que exibem as informações do Pokémon, como o nome, os pontos de vida, a imagem, a descrição, o ataque, a fraqueza e o elemento.</p>
 
 <div margin=10px 0px>
-  <img src='https://github.com/user-attachments/assets/d0a72663-213c-42c1-ac86-e6f96e08e2dd'>
+  <img src='https://github.com/user-attachments/assets/a46bc7c7-b952-4fcf-aae5-371ae561deaa'>
 </div>
 
 ### CSS
 <p>O CSS definiu o layout do website, ou seja, como os elementos são organizados e posicionados na tela. Ele garantiu a estilização de imagens, bakcgrounds, textos e ícones, trazendo também a responsividade para dispositivos móveis. Com códigos de estilização, ele permitiu personalizar a aparência das cartas Pokémon, definindo cores, fontes, tamanhos, bordas e outros detalhes visuais. A função do css garantiu que as cartas tenham um visual atraente e que as informações dos Pokémon sejam apresentadas de forma legível e organizada.</p>
 
 <div margin=10px 0px>
-  <img src='https://github.com/user-attachments/assets/cffe8043-2ed6-4e38-a52b-ae1bf6ee0d46'>
+  <img src='https://github.com/user-attachments/assets/54c4037d-1aae-45e3-be40-b26f46341aae'>
 </div>
 
 ### JavaScript
 <p>O JavaScript foi usado para exibir dinamicamente as informações de cada carta Pokémon. Quando o usuário seleciona uma carta, o JS busca os dados desse Pokémon específico e atualiza o conteúdo da carta na página. Ele controla a navegação entre as diferentes cartas Pokémon. Quando o usuário clica nas setas de navegação, a ferramenta atualiza a carta exibida com o próximo ou anterior Pokémon na lista. Em modo de defesa é possível perceber o movimento animado e o lado traseiro da carta feito a partir do JS.</p>
   
 <div margin=10px 0px>
-  <img src='https://github.com/user-attachments/assets/1fab55f7-2f22-4ebf-a333-6a8b3b6b0ec2'>
+  <img src='https://github.com/user-attachments/assets/bc0010aa-901a-4aed-96ee-c75ed4b6b45a'>
 </div>
 
 
